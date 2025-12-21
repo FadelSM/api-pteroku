@@ -1,0 +1,10 @@
+{
+  "name": "ptero-proxy",
+  "version": "1.0.0",
+  "description": "Pterodactyl universal proxy - Vercel serverless",
+  "main": "api/index.js",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
